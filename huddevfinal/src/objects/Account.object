@@ -24,7 +24,7 @@
     <fields>
         <fullName>test__c</fullName>
         <externalId>false</externalId>
-        <label>test1</label>
+        <label>test2</label>
         <length>254</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
