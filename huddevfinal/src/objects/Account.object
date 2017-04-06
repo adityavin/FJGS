@@ -25,7 +25,7 @@
         <fullName>test__c</fullName>
         <externalId>false</externalId>
         <label>test</label>
-        <length>256</length>
+        <length>255</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
