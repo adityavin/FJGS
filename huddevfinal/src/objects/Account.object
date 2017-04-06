@@ -25,10 +25,10 @@
         <fullName>test__c</fullName>
         <externalId>false</externalId>
         <label>test</label>
-        <length>255</length>
+        <length>254</length>
         <required>false</required>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Text</type>
-        <unique>false</unique>
+        <unique>true</unique>
     </fields>
 </CustomObject>
