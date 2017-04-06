@@ -25,9 +25,9 @@
         <fullName>test__c</fullName>
         <externalId>false</externalId>
         <label>test</label>
-        <length>255</length>
+        <length>256</length>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>
     </fields>
