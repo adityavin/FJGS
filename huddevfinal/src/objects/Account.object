@@ -27,7 +27,7 @@
         <label>test</label>
         <length>128</length>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
+        <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>
     </fields>
