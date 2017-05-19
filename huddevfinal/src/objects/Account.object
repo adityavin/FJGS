@@ -26,7 +26,7 @@
         <externalId>false</externalId>
         <label>test</label>
         <length>128</length>
-        <required>true</required>
+        <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>
